@@ -1,1 +1,3 @@
-Projeto django com react.js feito no curso udemy
+# Parte Backend Projeto 
+
+Projeto Hire Me, feito no curso da Udemy utilizando React.js e  Django
